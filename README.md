@@ -5,6 +5,7 @@
   </a>
 </div>
 <p>🌱 I’m currently learning Django and Spring Boot.</p>
+<p> 📫 How to reach me: onur7altug@gmail.com</p>
 <p>:hammer_and_wrench: Languages and Tools : </p>
 
 <div>
