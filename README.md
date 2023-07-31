@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/onuraltugakca/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="onur7altug@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
 </div>
 <p>🌱 I’m currently learning Django and Spring Boot.</p>
 <p>:hammer_and_wrench: Languages and Tools : </p>
