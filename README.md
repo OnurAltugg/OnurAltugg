@@ -5,7 +5,8 @@
   </a>
 </div>
 <p>🌱 I’m currently learning Django and Spring Boot.</p>
-<p> 📫 How to reach me: onur7altug@gmail.com</p>
+<p> 📫 How to reach me: <a href="mailto:example@example.com"> onur7altug@gmail.com </a></p>
+
 <p>:hammer_and_wrench: Languages and Tools : </p>
 
 <div>
