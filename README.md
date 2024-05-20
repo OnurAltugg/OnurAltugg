@@ -4,7 +4,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<p>🌱 I’m currently learning Spring Framework.</p>
 <p> 📫 How to reach me: <a href="mailto:example@example.com"> onur7altug@gmail.com </a></p>
 
 <p>:hammer_and_wrench: Languages and Tools : </p>
